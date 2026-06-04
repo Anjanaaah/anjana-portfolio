@@ -1,16 +1,73 @@
-# React + Vite
+# 🌐 Anjana Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern developer portfolio showcasing projects, technical expertise, achievements, and my journey in software development.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio serves as a central hub for my work, bringing together projects, technical skills, achievements, and professional experiences in a single platform.
 
-## React Compiler
+Designed with a focus on simplicity, responsiveness, and accessibility, the website reflects both my technical capabilities and my passion for building impactful solutions through technology.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+* Responsive and modern user interface
+* Project showcase with detailed descriptions
+* Skills and technology stack overview
+* Achievement and certification highlights
+* Professional contact and social links
+* Optimized performance and user experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technology Stack
+
+### Frontend
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+
+### Build Tools
+
+* Vite
+
+### Version Control
+
+* Git
+* GitHub
+
+## Featured Projects
+
+### 🔐 Human Neuroperception CAPTCHA
+
+An AI-resistant authentication framework that leverages human perception and cognition to distinguish humans from automated agents.
+
+### 🚚 ROBUST-RAG BOT
+
+A Reinforcement Learning-powered autonomous van-bot cooperative delivery system designed to address the last-mile delivery challenge.
+
+### 🌐 Portfolio Website
+
+A personal platform showcasing projects, technical growth, and professional achievements.
+
+## Project Philosophy
+
+I believe technology should solve meaningful problems.
+
+Whether exploring Artificial Intelligence, Machine Learning, Cybersecurity, or Full-Stack Development, my goal is to build solutions that combine innovation with real-world impact.
+
+## Live Website
+
+Visit the portfolio:
+
+https://comforting-marzipan-a0f289.netlify.app
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/anjanaahkumar
+- 📧 Email: anjanaahkumar@gmail.com
+- 🌐 Portfolio: https://comforting-marzipan-a0f289.netlify.app
+- ✍️ Medium: https://medium.com/@anjanaahkumar
+- 👩‍💻 Dev.to: https://dev.to/anjana_fb4d1424a163e9f03e
+- 🐙 GitHub: https://github.com/Anjanaaah
+
+*"Continuously learning, building, and exploring the intersection of technology and innovation."*
